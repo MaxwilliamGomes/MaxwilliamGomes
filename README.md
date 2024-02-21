@@ -17,5 +17,6 @@
 ●CRM
 
 #### Link do meu linkedin: https://www.linkedin.com/in/maxwilliam-gomes-74b01716a/
+#### Meu email de contato: Maxwilliamgomess@gmail.com
 
 ####  Vamos nos conectar?
