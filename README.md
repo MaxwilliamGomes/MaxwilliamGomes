@@ -11,10 +11,11 @@
 
 #### Habilidades:
 
-●Ferramentas de análise de dados: Planilhas, SQL, Power BI, R, Pythoon, Google Analytics
+●Ferramentas de análise de dados: Planilhas, SQL, Power BI, R, Python, Google Analytics
 ●Ferramentas de adsense: Google Ads, Facebook Ads, TikTok Ads
 ●Ferramentas de CRO: A/B teste(VWO), Hotjar, Clarity
 ●CRM
 
 #### Link do meu linkedin: https://www.linkedin.com/in/maxwilliam-gomes-74b01716a/
+
 ####  Vamos nos conectar?
