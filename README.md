@@ -1,7 +1,7 @@
 # Maxwilliam Gomes  
 **Business Intelligence Analyst | Data-Driven Solutions Architect**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2)](https://www.linkedin.com/in/maxwilliam-gomes-74b01716a/)
-[![Dasboards](https://img.shields.io/badge/Dashboards-Visit-%23FF6B6B)](https://www.novypro.com/profile_projects/maxwilliamgomes) <!-- Adicione seu link aqui -->
+[![Dasboards](https://img.shields.io/badge/Dashboards-Visit-%23FF6B6B)](https://www.novypro.com/manage_projects/maxwilliamgomes) <!-- Adicione seu link aqui -->
 [![Email](https://img.shields.io/badge/Email-Contact-%23EA4335)](mailto:maxwilliamgomes@gmail.com)
 
 👋 **Welcome to my GitHub!**  
