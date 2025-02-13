@@ -1,7 +1,7 @@
 # Maxwilliam Gomes  
 **Business Intelligence Analyst | Data-Driven Solutions Architect**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2)](https://www.linkedin.com/in/maxwilliam-gomes-74b01716a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23FF6B6B)](https://seusite.com) <!-- Adicione seu link aqui -->
+[![Dasboards](https://img.shields.io/badge/Dashboards-Visit-%23FF6B6B)](https://www.novypro.com/profile_projects/maxwilliamgomes) <!-- Adicione seu link aqui -->
 [![Email](https://img.shields.io/badge/Email-Contact-%23EA4335)](mailto:maxwilliamgomes@gmail.com)
 
 👋 **Welcome to my GitHub!**  
@@ -30,13 +30,13 @@ I’m a **BI Analyst** with **2+ years** of experience turning raw data into act
 
 ## 📂 **Featured Projects**  
  
-### [📊 Customer Churn Analysis Dashboard](https://github.com/seulink)  
-- **Tools:** Power BI, SQL, Python  
-- **Impact:** Identified churn patterns, leading to **1.34% retention improvement**.  
+### [📊 Análise de A/B Test para Campanhas de Marketing](https://github.com/MaxwilliamGomes/AB-test) 
+- **Tools:** Python  
+- **Impact:** Identificado que a Versão B superou a A com um aumento de **4% no CTR** (p-value < 0.05). 
 
-### [⚙️ ETL Automation for Logistics](https://github.com/seulink)  
-- **Tools:** SSIS, SQL Server  
-- **Impact:** Saved **4 hours/day** in data processing.  
+### [⚙️ ETL Automation for Data Warehouse de Commodities](https://github.com/MaxwilliamGomes/Monitoramento_de_Vendas) 
+- **Tools:** Python, Dbt, Postgre, Cloud  
+- **Impact:** Criou-se um pipeline de dados robusto e eficiente que trata e organiza os dados de commodities e suas movimentações para análise.  
 
 ---
 
