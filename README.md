@@ -28,25 +28,25 @@ I’m a **BI Analyst** with **2+ years** of experience turning raw data into act
 
 ---
 
-## 📂 **Featured Projects**  
+## 📂 **Projetos**  
  
 ### [📊 Análise de A/B Test para Campanhas de Marketing](https://github.com/MaxwilliamGomes/AB-test) 
-- **Tools:** Python  
-- **Impact:** Identificado que a Versão B superou a A com um aumento de **4% no CTR** (p-value < 0.05). 
+- **Ferramentas:** Python  
+- **Impacto:** Identificado que a Versão B superou a A com um aumento de **4% no CTR** (p-value < 0.05). 
 
 ### [⚙️ ETL Automation for Data Warehouse de Commodities](https://github.com/MaxwilliamGomes/Monitoramento_de_Vendas) 
-- **Tools:** Python, Dbt, Postgre, Cloud  
-- **Impact:** Criou-se um pipeline de dados robusto e eficiente que trata e organiza os dados de commodities e suas movimentações para análise.  
+- **Ferramentas:** Python, Dbt, Postgre, Cloud  
+- **Impacto:** Criou-se um pipeline de dados robusto e eficiente que trata e organiza os dados de commodities e suas movimentações para análise.  
 
 ---
 
-## 📚 **Latest Updates**  
-- 🎓 Pursuing **MBA in Business Intelligence & Analytics 360** (Xperium).  
-- 📜 Earned **DBT Fundamentals Certification** (DBT Labs).  
+## 📚 **Educação**  
+- 🎓 Graduado em **Gestão de Políticas Públicas**.  
+- 📜 Cursando **MBA in Business Intelligence & Analytics 360** (Xperium).  
   
 
 ---
 
 ## 📬 **Let’s Connect!**  
-I’m open to collaborating on BI projects, data analysis challenges, or strategic discussions.  
-👉 **Reach out:** [LinkedIn](https://www.linkedin.com/in/maxwilliam-gomes-74b01716a/) | [Email](mailto:maxwilliamgomes@gmail.com)  
+Estou aberto a colaborar em projetos de BI e análise de dados.  
+👉 **Entre em contato:** [LinkedIn](https://www.linkedin.com/in/maxwilliam-gomes-74b01716a/) | [Email](mailto:maxwilliamgomes@gmail.com)  
