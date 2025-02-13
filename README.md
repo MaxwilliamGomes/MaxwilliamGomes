@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-%23EA4335)](mailto:maxwilliamgomes@gmail.com)
 
 👋 **Welcome to my GitHub!**  
-I’m a **BI Analyst** with **10+ years** of experience turning raw data into actionable strategies for industries like logistics, finance, and marketing.  
+I’m a **BI Analyst** with **2+ years** of experience turning raw data into actionable strategies for industries like logistics, finance, and marketing.  
 🚀 **Expertise:** SQL, Power BI, Python, ETL/SSIS, Data Modeling, A/B Testing, and Process Automation.  
 
 ---
@@ -29,7 +29,7 @@ I’m a **BI Analyst** with **10+ years** of experience turning raw data into ac
 ---
 
 ## 📂 **Featured Projects**  
-*(Adicione links para repositórios relevantes! Exemplo:)*  
+ 
 ### [📊 Customer Churn Analysis Dashboard](https://github.com/seulink)  
 - **Tools:** Power BI, SQL, Python  
 - **Impact:** Identified churn patterns, leading to **1.34% retention improvement**.  
