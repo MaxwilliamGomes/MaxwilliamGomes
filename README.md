@@ -4,21 +4,22 @@
 [![Dasboards](https://img.shields.io/badge/Dashboards-Visit-%23FF6B6B)](https://www.novypro.com/manage_projects/maxwilliamgomes) <!-- Adicione seu link aqui -->
 [![Email](https://img.shields.io/badge/Email-Contact-%23EA4335)](mailto:maxwilliamgomes@gmail.com)
 
-👋 **Welcome to my GitHub!**  
-I’m a **BI Analyst** with **2+ years** of experience turning raw data into actionable strategies for industries like logistics, finance, and marketing.  
-🚀 **Expertise:** SQL, Power BI, Python, ETL/SSIS, Data Modeling, A/B Testing, and Process Automation.  
+👋 **Bem-vindo ao meu GitHub!**  
+Eu sou **Analista de BI** com **2+ anos** de experiência, transformando dados brutos em estratégias acionáveis para setores como estoque, vendas ,  finanças e marketing. Já tendo atuado com bases de dados corporativas grandes. 
+
+🚀 **Especialidades:** SQL, Power BI, Python, ETL/SSIS, Modelagem de Dados, Testes A/B e Automação de Processos. 
 
 ---
 
-## 🔥 **Key Achievements**  
-- **Reduced ETL processing time by 4 hours** daily through SSIS optimizations.  
-- **Decreased dashboard load by 60%** via advanced data modeling.  
-- **Lowered customer churn by 1.34%** (saving R$124K+) with predictive BI dashboards.  
-- **Prevented stock shortages** for 686 products, preserving **9% of monthly revenue**.  
+## 🔥 **Principais Conquistas**  
+- **Reduzi o tempo de processamento de ETL em 4 horas** diárias com otimizações no SSIS.  
+- **Diminuí o tempo de carregamento de dashboards em 60%** por meio de modelagem avançada de dados.  
+- **Reduzi a evasão de clientes em 1,34%** (economizando mais de R$124 mil) com processos de BI.  
+- **Evitei a falta de estoque** de 686 produtos, preservando **9% da receita mensal**.  
 
 ---
 
-## 🛠️ **Technical Skills**  
+## 🛠️ **Habilidades Técnicas**  
 | **BI & Analytics**      | **Tools & Languages**       | **Certifications**              |  
 |-------------------------|-----------------------------|----------------------------------|  
 | Power BI, Looker Studio | SQL, Python, R              | Google Data Analytics            |  
