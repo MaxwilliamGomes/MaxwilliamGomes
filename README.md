@@ -32,8 +32,12 @@ Eu sou **Analista de BI** com **2+ anos** de experiência, transformando dados b
 ## 📂 **Projetos**  
  
 ### [📊 Análise de A/B Test para Campanhas de Marketing](https://github.com/MaxwilliamGomes/AB-test) 
-- **Ferramentas:** Python  
-- **Impacto:** Identificado que a Versão B superou a A com um aumento de **4% no CTR** (p-value < 0.05). 
+- **Ferramentas:** Python, Jupyter Notebook  
+- **Impacto:** Identificado que a Versão B superou a A com um aumento de **4% no CTR** (p-value < 0.05).
+
+### [📊 Análise de Cohort para Retenção de Clientes](https://github.com/MaxwilliamGomes/Cohort-Analysis)
+- **Ferramentas:** R, Jupyter Notebook, Power BI  
+- **Impacto:** Identificado que a retenção cai no 3º e 6º mês, mas cohorts de fim de ano e de 2011 têm melhor desempenho, recomenda-se focar em campanhas de reengajamento no 2º e 3º mês, explorar promoções de fim de ano e monitorar estratégias dos cohorts mais bem-sucedidos.
 
 ### [⚙️ ETL Automation for Data Warehouse de Commodities](https://github.com/MaxwilliamGomes/Monitoramento_de_Vendas) 
 - **Ferramentas:** Python, Dbt, Postgre, Cloud  
